@@ -1,7 +1,12 @@
 ### Hi, I'm Abby!
+
 <br/>
+
 🧙🏻 Last year [Computer Science](cs.ui.ac.id) student at the University of Indonesia, Indonesia<br/>
-[![Abby's GitHub stats](https://github-readme-stats.vercel.app/api?username=abbymarvel&show_icons=true&theme=dracula)](https://github.com/abbymarvel/github-readme-stats)
+
+<br/>
+
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=abbymarvel&show_icons=true&theme=dracula&locale=en" alt="abbymarvel" /></p>
 
 <!--
 **abbymarvel/abbymarvel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
